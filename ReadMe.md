@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 👨‍💻 About Me<br><br>Hi, I'm Alibek, a passionate developer from Uzbekistan.<br><br>I enjoy building web applications, AI-powered products, Telegram bots, and startup MVPs that solve real-world problems.<br><br>Currently, I focus on:<br>- 🚀 Building innovative startup projects<br>- 🤖 AI and automation tools<br>- 🌐 React.js and modern web development<br>- 📱 Telegram Mini Apps and Bots<br>- 💡 Creating products that help people<br><br>I love learning new technologies, contributing to open-source projects, and turning ideas into real products.<br><br>My mission is to build technology that creates value for thousands of users and makes everyday tasks easier.
 
 
