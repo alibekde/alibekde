@@ -20,38 +20,6 @@ My goal is to build technology that solves meaningful problems, creates value, a
 - 🧠 Constantly learning, experimenting, and improving
 - 🤝 Open to collaboration, internships, and interesting projects
 
----
-
-## 🛠️ Technologies & Tools
-
-### Frontend Development
-- HTML5, CSS3, JavaScript
-- TypeScript
-- React.js
-- Next.js
-- Tailwind CSS
-
-### Backend Development
-- Node.js
-- Express.js
-- Python
-- REST APIs
-
-### Databases & Tools
-- PostgreSQL
-- Prisma ORM
-- Git & GitHub
-- Docker
-- VS Code
-
-### AI & Automation
-- AI-powered applications
-- Telegram Bot Development
-- Telegram Mini Apps
-- API Integrations
-- Workflow Automation
-
----
 
 ## 🚀 Featured Projects
 
