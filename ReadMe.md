@@ -1,5 +1,107 @@
+# 👋 Hi, I'm Alibek Yo‘ldoshboyev
 
-## 👨‍💻 About Me<br><br>Hi, I'm Alibek, a passionate developer from Uzbekistan.<br><br>I enjoy building web applications, AI-powered products, Telegram bots, and startup MVPs that solve real-world problems.<br><br>Currently, I focus on:<br>- 🚀 Building innovative startup projects<br>- 🤖 AI and automation tools<br>- 🌐 React.js and modern web development<br>- 📱 Telegram Mini Apps and Bots<br>- 💡 Creating products that help people<br><br>I love learning new technologies, contributing to open-source projects, and turning ideas into real products.<br><br>My mission is to build technology that creates value for thousands of users and makes everyday tasks easier.
+### 🚀 Full-Stack Developer | AI & Automation Enthusiast | Startup Builder
+
+I'm a developer from **Uzbekistan** passionate about building modern digital products, intelligent automation systems, and scalable web applications.
+
+I enjoy transforming ideas into real-world solutions — from interactive websites and Telegram bots to AI-powered platforms and startup MVPs.
+
+My goal is to build technology that solves meaningful problems, creates value, and makes people's lives easier.
+
+---
+
+## 🧑‍💻 About Me
+
+- 🌍 Based in Uzbekistan
+- 💻 Focused on Full-Stack and modern Web Development
+- 🤖 Interested in Artificial Intelligence and Automation
+- 📱 Building Telegram Bots and Telegram Mini Apps
+- 🚀 Developing startup ideas and MVP products
+- 🧠 Constantly learning, experimenting, and improving
+- 🤝 Open to collaboration, internships, and interesting projects
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Frontend Development
+- HTML5, CSS3, JavaScript
+- TypeScript
+- React.js
+- Next.js
+- Tailwind CSS
+
+### Backend Development
+- Node.js
+- Express.js
+- Python
+- REST APIs
+
+### Databases & Tools
+- PostgreSQL
+- Prisma ORM
+- Git & GitHub
+- Docker
+- VS Code
+
+### AI & Automation
+- AI-powered applications
+- Telegram Bot Development
+- Telegram Mini Apps
+- API Integrations
+- Workflow Automation
+
+---
+
+## 🚀 Featured Projects
+
+Here are some of the projects and products I'm working on:
+
+### 🏢 TALABAYT.UZ
+A dormitory management platform designed to simplify student accommodation management, attendance tracking, and administrative workflows.
+
+**Focus:** Full-Stack Development · Management Systems · Automation
+
+### 🏠 RoomAI
+An AI-powered interior design platform that helps users explore room design ideas and make smarter furniture and budget decisions.
+
+**Focus:** Artificial Intelligence · Telegram Mini Apps · Startup Development
+
+### 🎓 EduMap
+An education technology platform concept focused on connecting students, educational centers, and management systems.
+
+**Focus:** EdTech · SaaS · Full-Stack Development
+
+### 🤖 ZENTERX
+A technology and robotics initiative focused on robotics, software development, and innovative digital solutions.
+
+**Focus:** Robotics · Engineering · Software Development
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alibekde&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibekde&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 💻 GitHub: [@alibekde](https://github.com/alibekde)
+- 📍 Location: Uzbekistan
+
+---
+
+## 💡 My Philosophy
+
+> Build with curiosity. Learn continuously. Turn ideas into impact.
+
+I'm always interested in learning, building meaningful products, and collaborating with people who are passionate about technology.
+
+**Let's build something meaningful! 🚀**
 
 
 ## 🌐 Socials:
